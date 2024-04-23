@@ -4,7 +4,7 @@ Welcome to the ```xaero138/damia``` repository! This project is a square equatio
 
 ## Usage
 ```
-damia A B C --language/-l[ En (default) / Ru]
+damia A B C --language/-l[ En/E (default) / Ru/R] --format/-f[ Std/S (default) / Full/F]
 ```
 
 ## How to run?
