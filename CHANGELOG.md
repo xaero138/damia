@@ -2,6 +2,11 @@
 
 All notable changes to this project will be documented in this file.
 
+## 0.2.3
+- **src/Damia.hs:** version output code redesigned
+- version tags added
+- **Full** solve output format extra newline bug fixed
+
 ## 0.2.2
 **src/Options.hs:** options parse are turned to more stricter
 
